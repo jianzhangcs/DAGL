@@ -1,0 +1,26 @@
+Loading model ...
+
+Making model...
+Loading data info ...
+
+testsets/McMaster18/01.tif input 7.58, PSNR 32.17 SSIM 0.948354
+testsets/McMaster18/02.tif input 9.47, PSNR 36.93 SSIM 0.956867
+testsets/McMaster18/03.tif input 7.99, PSNR 37.64 SSIM 0.983014
+testsets/McMaster18/04.tif input 3.83, PSNR 42.01 SSIM 0.993369
+testsets/McMaster18/05.tif input 6.96, PSNR 37.38 SSIM 0.971542
+testsets/McMaster18/06.tif input 9.80, PSNR 41.77 SSIM 0.979104
+testsets/McMaster18/07.tif input 8.40, PSNR 42.06 SSIM 0.985107
+testsets/McMaster18/08.tif input 12.90, PSNR 41.99 SSIM 0.981674
+testsets/McMaster18/09.tif input 8.37, PSNR 40.95 SSIM 0.973223
+testsets/McMaster18/10.tif input 10.43, PSNR 41.68 SSIM 0.979183
+testsets/McMaster18/11.tif input 12.17, PSNR 42.47 SSIM 0.979603
+testsets/McMaster18/12.tif input 8.59, PSNR 42.00 SSIM 0.971215
+testsets/McMaster18/13.tif input 7.56, PSNR 42.29 SSIM 0.960986
+testsets/McMaster18/14.tif input 9.57, PSNR 40.60 SSIM 0.964853
+testsets/McMaster18/15.tif input 10.84, PSNR 40.83 SSIM 0.966231
+testsets/McMaster18/16.tif input 10.50, PSNR 38.03 SSIM 0.977313
+testsets/McMaster18/17.tif input 12.08, PSNR 37.62 SSIM 0.977233
+testsets/McMaster18/18.tif input 7.98, PSNR 38.81 SSIM 0.974661
+
+PSNR on test data 39.846193
+SSIM on test data 0.973529

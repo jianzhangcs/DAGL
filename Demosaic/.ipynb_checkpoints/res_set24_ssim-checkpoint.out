@@ -1,0 +1,32 @@
+Loading model ...
+
+Making model...
+Loading data info ...
+
+testsets/Kodak24/kodim01.png input 8.82, PSNR 44.05 SSIM 0.995536
+testsets/Kodak24/kodim02.png input 10.17, PSNR 42.75 SSIM 0.986080
+testsets/Kodak24/kodim03.png input 9.35, PSNR 46.29 SSIM 0.993157
+testsets/Kodak24/kodim04.png input 8.99, PSNR 44.23 SSIM 0.990316
+testsets/Kodak24/kodim05.png input 10.45, PSNR 42.46 SSIM 0.995124
+testsets/Kodak24/kodim06.png input 7.03, PSNR 43.80 SSIM 0.993676
+testsets/Kodak24/kodim07.png input 8.91, PSNR 45.99 SSIM 0.993890
+testsets/Kodak24/kodim08.png input 7.18, PSNR 40.56 SSIM 0.993035
+testsets/Kodak24/kodim09.png input 7.30, PSNR 45.29 SSIM 0.988871
+testsets/Kodak24/kodim10.png input 7.95, PSNR 44.97 SSIM 0.990043
+testsets/Kodak24/kodim11.png input 9.96, PSNR 43.91 SSIM 0.993067
+testsets/Kodak24/kodim12.png input 5.76, PSNR 46.53 SSIM 0.992112
+testsets/Kodak24/kodim13.png input 8.70, PSNR 38.95 SSIM 0.993012
+testsets/Kodak24/kodim14.png input 9.66, PSNR 42.04 SSIM 0.993434
+testsets/Kodak24/kodim15.png input 7.31, PSNR 43.12 SSIM 0.988900
+testsets/Kodak24/kodim16.png input 9.10, PSNR 46.84 SSIM 0.993966
+testsets/Kodak24/kodim17.png input 10.77, PSNR 44.16 SSIM 0.991682
+testsets/Kodak24/kodim18.png input 11.96, PSNR 39.61 SSIM 0.987522
+testsets/Kodak24/kodim19.png input 8.16, PSNR 44.11 SSIM 0.990906
+testsets/Kodak24/kodim20.png input 4.24, PSNR 43.73 SSIM 0.983926
+testsets/Kodak24/kodim21.png input 8.11, PSNR 42.78 SSIM 0.988877
+testsets/Kodak24/kodim22.png input 8.55, PSNR 41.71 SSIM 0.986936
+testsets/Kodak24/kodim23.png input 8.54, PSNR 44.98 SSIM 0.989713
+testsets/Kodak24/kodim24.png input 8.43, PSNR 38.51 SSIM 0.992444
+
+PSNR on test data 43.389695
+SSIM on test data 0.991093

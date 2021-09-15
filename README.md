@@ -16,10 +16,10 @@ In this paper, we propose an improved graph attention model for image restoratio
 ## Citation
 If you find our work helpful in your resarch or work, please cite the following papers.
 ```
-@article{mou2021gatir,
+@inproceedings{mou2021gatir,
   title={Dynamic Attentive Graph Learning for Image Restoration},
   author={Chong, Mou and Jian, Zhang and Zhuoyuan, Wu},
-  journal={IEEE International Conference on Computer Vision},
+  booktitle={IEEE International Conference on Computer Vision},
   year={2021}
 }
 ```

@@ -14,7 +14,7 @@ In this paper, we propose an improved graph attention model for image restoratio
 
 ![Network](/Figs/graph.PNG)
 ## Citation
-If you find our work helpful in your resarch or work, please cite the following papers.
+If you find our work helpful in your resarch or work, please cite the following paper.
 ```
 @inproceedings{mou2021gatir,
   title={Dynamic Attentive Graph Learning for Image Restoration},

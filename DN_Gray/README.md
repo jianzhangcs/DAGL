@@ -1,3 +1,6 @@
+# Gray-scale Image Denoising 
+![PSNR_DN_Gray](/Figs/PSNR_SSIM_dn_gray.PNG)
+![Visual_DN_Gray](/Figs/vis_SSIM_dn_gray.PNG)
 # Train
 python train.py --save_path=exp --dir_data=DIV2K --lr=2e-4 --noiseL=25 --batch_size=32
 

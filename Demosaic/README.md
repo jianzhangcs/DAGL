@@ -1,3 +1,6 @@
+# Image Demosaicing  
+![PSNR_DN_Gray](/Figs/PSNR_SSIM_dmic.PNG)
+![Visual_DN_Gray](/Figs/vis_dmic.PNG)
 # Train
 python train.py --save_path=exp --dir_data=DIV2K --lr=2e-4 --batch_size=32
 

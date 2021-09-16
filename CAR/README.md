@@ -1,3 +1,6 @@
+# Image Compression Artifact Reduction with a Single model
+![PSNR_CAR](/Figs/PSNR_SSIM_car.PNG)
+![Visual_CAR](/Figs/vis_car.PNG)
 # Train
 python train.py --dir_data=DIV2K/ --q=10 --save_path=exp --lr=2e-4 --batch_size=32
 

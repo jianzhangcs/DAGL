@@ -1,4 +1,4 @@
-# Image Compression Artifact Reduction with a Single model
+# Image Compression Artifact Reduction with a Single Model
 ![PSNR_CAR](/Figs/PSNR_SSIM_car.PNG)
 ![Visual_CAR](/Figs/vis_car.PNG)
 # Train

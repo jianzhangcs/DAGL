@@ -2,7 +2,8 @@
 This repository is for GATIR introduced in the following paper:  
 Chong Mou, [Jian Zhang](https://jianzhang.tech/), Zhuoyuan Wu; Dynamic Attentive Graph Learning for Image Restoration; IEEE International Conference on Computer Vision (ICCV) 2021 [\[arxiv\]](https://arxiv.org/abs/2109.06620)  
 
-Code is coming soon!  
+The pre-trained models are available at [Google Drive](https://drive.google.com/file/d/14TqhXRmDt0pfUeIJtter_vuKyF-Fyg2s/view?usp=sharing)
+
 ## Requirements
 - Python 3.6
 - PyTorch >= 1.1.0
